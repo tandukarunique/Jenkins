@@ -29,11 +29,7 @@
             Check yours at chrome://version and change v136 below to match.
             Common options: selenium-devtools-v134, v135, v136
         -->
-  <dependency>
-      <groupId>org.seleniumhq.selenium</groupId>
-      <artifactId>selenium-java</artifactId>
-      <version>4.18.1</version>
-    </dependency>
+
 
         <!-- Auto-downloads correct ChromeDriver — no manual setup needed -->
         <dependency>
